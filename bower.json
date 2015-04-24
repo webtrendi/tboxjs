@@ -1,6 +1,7 @@
 {
   "name": "tboxjs",
   "version": "0.0.1",
+  "main": "tbox.js",
   "homepage": "https://github.com/webtrendi/tboxjs",
   "authors": [
     "Patrick Forget <patforg@geekpad.ca>"
