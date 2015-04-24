@@ -1,0 +1,17 @@
+{
+  "name": "tboxjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/webtrendi/tboxjs",
+  "authors": [
+    "Patrick Forget <patforg@geekpad.ca>"
+  ],
+  "description": "lib to register events and load dependencies",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
